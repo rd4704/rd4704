@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rahul, I am the co-founder of [MyRent](https://myrent.sg) and a Tech Lead.
+### Hi, 👋 I am Rahul, Co-founder of [MyRent](https://myrent.sg) and a Tech Lead.
 I enjoy working on complex software engineering problems and building/scaling tech teams. I occasionally blog and speak at tech events and love discussing tech anytime.
 
 🔭 I work at PropertyGuru as a Tech Lead.
