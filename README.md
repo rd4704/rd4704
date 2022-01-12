@@ -1,7 +1,7 @@
 ### Hi, 👋 I am Rahul, Co-founder of [MyRent](https://myrent.sg) and a Tech Lead.
 I enjoy working on complex software engineering problems and building/scaling tech teams. I occasionally blog and speak at tech events and love nerding about tech 🤓.
 
-🔭 I work at TransferWise as an Engineering Lead.
+🔭 I work at [Wise](https://wise.com/) as an Engineering Lead.
 
 💬 Ask me about Software Engineering.
 
