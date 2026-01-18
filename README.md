@@ -1,9 +1,9 @@
-### Hi, 👋 I am Rahul, Co-founder of [MyRent](https://myrent.sg) and a Tech Lead.
-I enjoy working on complex software engineering problems and building/scaling tech teams. I occasionally blog and speak at tech events and love nerding about tech 🤓.
+### Hi, 👋 I am Rahul.
+I enjoy working on complex software engineering problems, currently working on money movement space for domestic and cross border payments. I occasionally blog and speak at tech events and love nerding about tech 🤓.
 
 🔭 I work at [Wise](https://wise.com/) as an Engineering Lead.
 
-💬 Ask me about Software Engineering.
+💬 Ask me about Software Engineering, building and scaling engineering teams, cross border payments, direct access to payment schemes, AI, Blockchain.
 
 📫 Reach out to me on [LinkedIn](https://linkedin.com/in/rahulsharma7) or [Twitter](https://twitter.com/rd4704).
 
